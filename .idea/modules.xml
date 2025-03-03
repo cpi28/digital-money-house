@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FinalEspBE.iml" filepath="$PROJECT_DIR$/.idea/FinalEspBE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Registro-y-login/Registro-y-login.iml" filepath="$PROJECT_DIR$/Registro-y-login/Registro-y-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digitalmoneyhousereg/digitalmoneyhouse.iml" filepath="$PROJECT_DIR$/digitalmoneyhousereg/digitalmoneyhouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digitalmoneyhouseauth/digitalmoneyhouseauth.iml" filepath="$PROJECT_DIR$/digitalmoneyhouseauth/digitalmoneyhouseauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digitalmoneyhousedash/digitalmoneyhousedash.iml" filepath="$PROJECT_DIR$/digitalmoneyhousedash/digitalmoneyhousedash.iml" />
+    </modules>
+  </component>
+</project>
