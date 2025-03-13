@@ -18,7 +18,7 @@
         </processorPath>
         <module name="Registro-y-login" />
       </profile>
-      <profile name="Annotation profile for digitalmoneyhouse" enabled="true">
+      <profile name="Annotation profile for digitalmoneyhousecard" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -27,13 +27,17 @@
         </processorPath>
         <module name="digitalmoneyhouse" />
         <module name="digitalmoneyhousedash" />
+        <module name="digitalmoneyhousecard" />
         <module name="digitalmoneyhouseauth" />
+        <module name="digitalmoneyhouseprofile" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="digitalmoneyhouse" target="17" />
       <module name="digitalmoneyhouseauth" target="17" />
+      <module name="digitalmoneyhousecard" target="17" />
       <module name="digitalmoneyhousedash" target="17" />
+      <module name="digitalmoneyhouseprofile" target="17" />
       <module name="Registro-y-login" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -42,7 +46,9 @@
       <module name="Registro-y-login" options="-parameters" />
       <module name="digitalmoneyhouse" options="-parameters" />
       <module name="digitalmoneyhouseauth" options="-parameters" />
+      <module name="digitalmoneyhousecard" options="-parameters" />
       <module name="digitalmoneyhousedash" options="-parameters" />
+      <module name="digitalmoneyhouseprofile" options="-parameters" />
     </option>
   </component>
 </project>

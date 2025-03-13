@@ -6,7 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/Registro-y-login/Registro-y-login.iml" filepath="$PROJECT_DIR$/Registro-y-login/Registro-y-login.iml" />
       <module fileurl="file://$PROJECT_DIR$/digitalmoneyhousereg/digitalmoneyhouse.iml" filepath="$PROJECT_DIR$/digitalmoneyhousereg/digitalmoneyhouse.iml" />
       <module fileurl="file://$PROJECT_DIR$/digitalmoneyhouseauth/digitalmoneyhouseauth.iml" filepath="$PROJECT_DIR$/digitalmoneyhouseauth/digitalmoneyhouseauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digitalmoneyhousecard/digitalmoneyhousecard.iml" filepath="$PROJECT_DIR$/digitalmoneyhousecard/digitalmoneyhousecard.iml" />
       <module fileurl="file://$PROJECT_DIR$/digitalmoneyhousedash/digitalmoneyhousedash.iml" filepath="$PROJECT_DIR$/digitalmoneyhousedash/digitalmoneyhousedash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digitalmoneyhouseprofile/digitalmoneyhouseprofile.iml" filepath="$PROJECT_DIR$/digitalmoneyhouseprofile/digitalmoneyhouseprofile.iml" />
     </modules>
   </component>
 </project>

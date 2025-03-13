@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/digitalmoneyhouseauth/pom.xml" />
         <option value="$PROJECT_DIR$/digitalmoneyhousedash/pom.xml" />
         <option value="$PROJECT_DIR$/digitalmoneyhousereg/pom.xml" />
+        <option value="$PROJECT_DIR$/digitalmoneyhouseprofile/pom.xml" />
+        <option value="$PROJECT_DIR$/digitalmoneyhousecard/pom.xml" />
       </list>
     </option>
   </component>
